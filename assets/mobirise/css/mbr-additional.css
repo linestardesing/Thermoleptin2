@@ -1328,8 +1328,41 @@ a {
 .cid-sBz7cP2Z1N .card-title {
   color: #e86390;
 }
+.cid-sBFIPfd9My {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20200819153058.delivery.x2-1200x628.jpeg");
+}
+.cid-sBFIPfd9My .mbr-overlay {
+  background: linear-gradient(90deg, #6441a5, #e86390);
+}
+.cid-sBFIPfd9My .media-container-row img {
+  -webkit-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  -moz-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+}
+.cid-sBFIPfd9My .media-container-row:hover img {
+  -webkit-transform: translate3d(0, -5px, 0);
+  -moz-transform: translate3d(0, -5px, 0);
+  transform: translate3d(0, -5px, 0);
+}
+@media (min-width: 992px) {
+  .cid-sBFIPfd9My .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sBFIPfd9My .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sBFIPfd9My {
+    text-align: center !important;
+  }
+}
 .cid-sBvlNxGwRv {
-  background-image: url("../../../assets/images/bikini-women-sea-beach-model-women-outdoors-1123582-wallhere.com-2000x1125.jpg");
+  background-image: url("../../../assets/images/wallpaperflare.com-wallpaper-1301x742.jpg");
 }
 .cid-sBvlNxGwRv .column-content {
   padding-top: 120px;
